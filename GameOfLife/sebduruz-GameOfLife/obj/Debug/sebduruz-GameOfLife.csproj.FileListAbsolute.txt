@@ -44,3 +44,15 @@ D:\01-projets\MiniDemomoth\sebduruz-GameOfLife\sebduruz-GameOfLife\obj\Debug\seb
 D:\01-projets\MiniDemomoth\sebduruz-GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.csproj.CoreCompileInputs.cache
 D:\01-projets\MiniDemomoth\sebduruz-GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.exe
 D:\01-projets\MiniDemomoth\sebduruz-GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.pdb
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\bin\Debug\sebduruz-GameOfLife.exe.config
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\bin\Debug\sebduruz-GameOfLife.exe
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\bin\Debug\sebduruz-GameOfLife.pdb
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.csproj.AssemblyReference.cache
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz_GameOfLife.MainForm.resources
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz_GameOfLife.Properties.Resources.resources
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz_GameOfLife.Resources.LangEN.resources
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz_GameOfLife.Resources.LangFR.resources
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.csproj.GenerateResource.cache
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.exe
+C:\Users\Sébastien\Documents\Github\GameOfLife-Winform\GameOfLife\sebduruz-GameOfLife\obj\Debug\sebduruz-GameOfLife.pdb
